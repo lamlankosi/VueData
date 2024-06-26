@@ -1,0 +1,158 @@
+{
+    "jobTitle":[ 
+        {
+
+        "companyName": "Life Choices",
+        "occupation" : "Student"
+        }
+    ],
+    "about": [
+        
+        "Born in Cape Town in an area called Langa, the first black township in Cape Town. As a boy who matriculated in 2023, I have embraced technology as an integral part of my life and education. I am passionate about exploring the latest advancements in tech, whether it's coding, robotics, or virtual reality. My curiosity drives me to constantly seek out new opportunities to expand my knowledge and skills in the digital realm. Outside of the digital world, I also have a strong commitment to physical fitness. You'll often find me at the gym, pushing myself to achieve new personal bests and maintaining a healthy lifestyle. Balancing my love for technology with my dedication to fitness, I strive to embody a well-rounded approach to life, always seeking growth and improvement in all aspects of my endeavors.I am a very well organised individual, self confident and loyal person. I consider myself a responsible and orderly person."
+        
+
+    ],
+    "education":[
+        {
+            "id": 1,
+            "SchoolName": "Zimasa Primary School",
+            "Grade" : "1-9"
+            
+        },
+        {
+            "id": 2,
+            "SchoolName" : "Christel House South Africa",
+            "Grade" :"10-12"
+        }
+    ],
+    "experience":[
+        {
+            "companyName" :"Life Choices",
+            "duration" : "12 months"
+        }
+    ],
+    "skills":[
+        {
+            "id": 1,
+            "skillName" : "Html",
+            "skillcategory" : "Proficient"
+        },
+        {
+            "id": 2,
+            "skillName" : "Css",
+            "skillcategory" : "Proficient"
+        },
+        {
+            "id": 3,
+            "skillName" : "Problem Solving",
+            "skillcategory" : "Proficient"
+        },
+        {
+            "id": 4,
+            "skillName" : "Microsoft Applications",
+            "skillcategory" : "Proficient"
+        },
+        {
+            "id": 5,
+            "skillName" : "Time Management",
+            "skillcategory" : "Advance"
+        },
+        {
+            "id": 6,
+            "skillName" : "Communication",
+            "skillcategory" : "Proficient"
+        },
+    ],
+    "testimonials":[
+        {
+            "id":1,
+            "name": "Imaaran",
+            "surname": "" ,
+             "quotes": "Lamlankosi's web development prowess transforms projects, excelling in both frontend design and backend optimization. Known for attention to detail and problem-solving, he consistently exceeds expectations, delivering seamless online solutions. Highly recommended for those seeking top-tier web development services."
+        },
+        {
+            "id": 2,
+            "name": "Yakupha",
+            "surname" : "",
+            "quotes": "I've had the pleasure of collaborating with Lamlankosi on multiple occasions, and I've always been impressed by his expertise and professionalism. His portfolio is a testament to his skills as a software developer, showcasing not only his technical proficiency but also his ability to adapt to different technologies and frameworks. He's definitely someone you want on your team."
+        },
+        {
+            "id": 2,
+            "name": "Yakupha",
+            "surname" : "",
+            "quotes": "I've had the pleasure of collaborating with Lamlankosi on multiple occasions, and I've always been impressed by his expertise and professionalism. His portfolio is a testament to his skills as a software developer, showcasing not only his technical proficiency but also his ability to adapt to different technologies and frameworks. He's definitely someone you want on your team."
+        },
+        {
+            "id": 2,
+            "name": "Yakupha",
+            "surname" : "",
+            "quotes": "I've had the pleasure of collaborating with Lamlankosi on multiple occasions, and I've always been impressed by his expertise and professionalism. His portfolio is a testament to his skills as a software developer, showcasing not only his technical proficiency but also his ability to adapt to different technologies and frameworks. He's definitely someone you want on your team."
+        },
+        {
+            "id": 3,
+            "name": "Joel",
+            "surname" : "Mukanya",
+            "quotes": "Lamlankosi is a highly creative, well-behave and dedicated individiual who thrives on collaborating with his peers and excels at working on project assiginments.he has acquired various skills and tool, including HTML5, CCS3,Bootstrap, VS Code, and wireframe. Im pleased to introducehim as exceptional candidate and developer."
+        },
+        {
+            "id": 4,
+            "name": "Mordecai",
+            "surname" : "",
+            "quotes": "Lamla is a highly capable individual known for his fast learning, exceptional work ethic, and calm demeanor. He efficiently completes tasks and projects while maintaining a relaxed attitude. Highly recommended for his impressive abilities and easygoing nature."
+        },
+        {
+            "id": 5,
+            "name": "Amy",
+            "surname" : "",
+            "quotes": "Lamlankosi epitomizes discipline and teamwork. Their dedication to coding is unparalleled, evident in their meticulous work. As a team player, they elevate every project with their collaborative spirit. Working with Lamla is inspiring and highly productive."
+        },
+        {
+            "id": 6,
+            "name": "Thuthuza",
+            "surname" : "Poswayo",
+            "quotes": "Lamla is an exceptional team player. He is always ready and willing to tackle any task at hand He is very helpful and kind too."
+        },
+    ],
+    "projects":[
+        {
+            "id":1,
+            "name": "Calculator",
+            "description": "Introducing my CSS and HTML calculator. With carefully crafted CSS styles and structured HTML layout, this calculator demonstrates the power of pure front-end techniques.",
+            "image": "",
+            "github": "",
+            "vercel":"https://calculator-ruddy-rho.vercel.app/"
+        },
+        {
+            "id":2,
+            "name": "Shoe Store",
+            "description": "HTML/CSS template for shoe-selling website: Home, products, about, contact sections with product display, navigation, and footer",
+            "image": "",
+            "github": "",
+            "vercel":"https://shoe-store-eosin-theta.vercel.app/"
+        },
+        {
+            "id":3,
+            "name": "Weather APP",
+            "description": "Stylish Weather App UI with city input, search button, and dynamic weather information, enhanced by HTML and CSS.",
+            "image": "",
+            "github": "",
+            "vercel":""
+        },
+        {
+            "id":4,
+            "name": "To do List",
+            "description": "Simple To-Do List interface with add and delete functionalities, designed with HTML and CSS for seamless user experience.",
+            "image": "",
+            "github": "",
+            "vercel":"https://to-do-list-three-tawny.vercel.app/"
+        },
+        {
+            "id":4,
+            "name": "Keyboard",
+            "description": "Explore our CSS and HTML keyboard layout, blending style and functionality seamlessly for an enhanced user experience",
+            "image": "",
+            "github": "",
+            "vercel":"https://keyboard1-zeta.vercel.app/"
+        }
+    ]
+}
