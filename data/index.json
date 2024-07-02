@@ -113,6 +113,24 @@
       "status": "working-on",
       "github": "https://github.com/example/shoe-store",
       "vercel": "https://shoe-store.example.com"
-    }
+    },
+    {
+      "id": 3,
+      "name": "BMI Calculator",
+      "description": "HTML/CSS template for shoe-selling website...",
+      "tags": ["HTML", "CSS"],
+      "status": "completed",
+      "github": "https://github.com/example/shoe-store",
+      "vercel": "https://shoe-store.example.com"
+    },
+    {
+      "id": 4,
+      "name": "To-do-List",
+      "description": "HTML/CSS template for shoe-selling website...",
+      "tags": ["HTML", "CSS"],
+      "status": "working-on",
+      "github": "https://github.com/example/shoe-store",
+      "vercel": "https://shoe-store.example.com"
+    },
   ]
 }
