@@ -95,46 +95,24 @@
             "quotes": "Lamla is an exceptional team player. He is always ready and willing to tackle any task at hand He is very helpful and kind too."
         }
     ],
-    "projects":[
-        {
-            "id":1,
-            "name": "Calculator",
-            "description": "Introducing my CSS and HTML calculator. With carefully crafted CSS styles and structured HTML layout, this calculator demonstrates the power of pure front-end techniques.",
-            "image": "",
-            "github": "",
-            "vercel":"https://calculator-ruddy-rho.vercel.app/"
-        },
-        {
-            "id":2,
-            "name": "Shoe Store",
-            "description": "HTML/CSS template for shoe-selling website: Home, products, about, contact sections with product display, navigation, and footer",
-            "image": "",
-            "github": "",
-            "vercel":"https://shoe-store-eosin-theta.vercel.app/"
-        },
-        {
-            "id":3,
-            "name": "Weather APP",
-            "description": "Stylish Weather App UI with city input, search button, and dynamic weather information, enhanced by HTML and CSS.",
-            "image": "",
-            "github": "",
-            "vercel":""
-        },
-        {
-            "id":4,
-            "name": "To do List",
-            "description": "Simple To-Do List interface with add and delete functionalities, designed with HTML and CSS for seamless user experience.",
-            "image": "",
-            "github": "",
-            "vercel":"https://to-do-list-three-tawny.vercel.app/"
-        },
-        {
-            "id":4,
-            "name": "Keyboard",
-            "description": "Explore our CSS and HTML keyboard layout, blending style and functionality seamlessly for an enhanced user experience",
-            "image": "",
-            "github": "",
-            "vercel":"https://keyboard1-zeta.vercel.app/"
-        }
-    ]
+    "projects": [
+    {
+      "id": 1,
+      "name": "Calculator",
+      "description": "Introducing my CSS and HTML calculator...",
+      "tags": ["HTML", "CSS"],
+      "status": "completed",
+      "github": "https://github.com/example/calculator",
+      "vercel": "https://calculator.example.com"
+    },
+    {
+      "id": 2,
+      "name": "Shoe Store",
+      "description": "HTML/CSS template for shoe-selling website...",
+      "tags": ["HTML", "CSS"],
+      "status": "working-on",
+      "github": "https://github.com/example/shoe-store",
+      "vercel": "https://shoe-store.example.com"
+    }
+  ]
 }
