@@ -15,63 +15,48 @@
         
 
     ],
-    "education":[
-        {
-            "id": 1,
-            "SchoolName": "Zimasa Primary School",
-            "Grade" : "1-9"
-            
-        },
-        {
-            "id": 2,
-            "SchoolName" : "Christel House South Africa",
-            "Grade" :"10-12"
-        }
-    ],
-    "experience":[
-        {
-            "companyName" :"Life Choices",
-            "duration" : "12 months"
-        }
-    ],
-    "skills":[
-        {
-            "id": 1,
-            "skillName" : "Html",
-            "skillcategory" : "Proficient",
-            "logo": "https://lamlankosi.github.io/project_images/Images/cae1b4f6b223fe5a7bb712b680cffa67.jpg"
-        },
-        {
-            "id": 2,
-            "skillName" : "Css",
-            "skillcategory" : "Proficient",
-            "logo": "https://lamlankosi.github.io/project_images/Images/b7c2e508920a1168b94dea8675fa311d.jpg"
-        },
-        {
-            "id": 3,
-            "skillName" : "Problem Solving",
-            "skillcategory" : "Proficient",
-            "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
-        },
-        {
-            "id": 4,
-            "skillName" : "Microsoft Applications",
-            "skillcategory" : "Proficient",
-            "logo": "https://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg"
-        },
-        {
-            "id": 5,
-            "skillName" : "Vuejs",
-            "skillcategory" : "intermidiate",
-            "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png"
-        },
-        {
-            "id": 6,
-            "skillName" : "JavaScript",
-            "skillcategory" : "intermidiate",
-            "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png"
-        }
-    ],
+   "education": [
+    { 
+        "school": "Zimasa Primary School", 
+        "year": "2011-2020"
+    },
+    { 
+        "school": "Christel House South Africa", 
+        "year": "2021-2023"
+    }
+  ],
+  "experience": [
+    { 
+        "company": "Life Choices", 
+        "year": "2024-2025"
+    }
+  ],
+  "skills": [
+    {   
+        "name": "CSS", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle.png" 
+    },
+    {   
+        "name": "HTML", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" 
+    },
+    {   
+        "name": "Bootstrap", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
+    },
+    {   
+        "name": "JavaScript", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png" 
+    },
+    {   
+        "name": "Vue.js", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png" 
+    },
+    {   
+        "name": "Microsoft Office", 
+        "logo": "ttps://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg" 
+    }
+  ],
     "testimonials":[
         {
             "id":1,
