@@ -34,27 +34,27 @@
   "skills": [
     {   
         "name": "CSS", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle.png" 
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle.png" 
     },
     {   
         "name": "HTML", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" 
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" 
     },
     {   
         "name": "Bootstrap", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
     },
     {   
         "name": "JavaScript", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png" 
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png" 
     },
     {   
         "name": "Vue.js", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png" 
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png" 
     },
     {   
         "name": "Microsoft Office", 
-        "logo": "ttps://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg" 
+        "logo": "https://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg" 
     }
   ],
     "testimonials":[
