@@ -38,32 +38,38 @@
         {
             "id": 1,
             "skillName" : "Html",
-            "skillcategory" : "Proficient"
+            "skillcategory" : "Proficient",
+            "logo": "https://lamlankosi.github.io/project_images/Images/cae1b4f6b223fe5a7bb712b680cffa67.jpg"
         },
         {
             "id": 2,
             "skillName" : "Css",
-            "skillcategory" : "Proficient"
+            "skillcategory" : "Proficient",
+            "logo": "https://lamlankosi.github.io/project_images/Images/b7c2e508920a1168b94dea8675fa311d.jpg"
         },
         {
             "id": 3,
             "skillName" : "Problem Solving",
-            "skillcategory" : "Proficient"
+            "skillcategory" : "Proficient",
+            "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
         },
         {
             "id": 4,
             "skillName" : "Microsoft Applications",
-            "skillcategory" : "Proficient"
+            "skillcategory" : "Proficient",
+            "logo": "https://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg"
         },
         {
             "id": 5,
-            "skillName" : "Time Management",
-            "skillcategory" : "Advance"
+            "skillName" : "Vuejs",
+            "skillcategory" : "intermidiate",
+            "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png"
         },
         {
             "id": 6,
-            "skillName" : "Communication",
-            "skillcategory" : "Proficient"
+            "skillName" : "JavaScript",
+            "skillcategory" : "intermidiate",
+            "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png"
         }
     ],
     "testimonials":[
