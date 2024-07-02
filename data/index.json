@@ -131,6 +131,6 @@
       "status": "working-on",
       "github": "https://github.com/example/shoe-store",
       "vercel": "https://shoe-store.example.com"
-    },
+    }
   ]
 }
