@@ -99,37 +99,55 @@
     {
       "id": 1,
       "name": "Calculator",
-      "description": "Introducing my CSS and HTML calculator...",
-      "tags": ["HTML", "CSS"],
+      "description": "Basic calculator allowing user to perform arthemtic operations such as addition,subraction, multiplication and division through a simple interactive interface",
+      "tags": ["HTML", "CSS", "JavaScript"],
       "status": "completed",
-      "github": "https://github.com/example/calculator",
-      "vercel": "https://calculator.example.com"
+      "github": "https://github.com/lamlankosi/Calculator.git",
+      "vercel": "https://calculator-ruddy-rho.vercel.app/"
     },
     {
       "id": 2,
       "name": "Shoe Store",
-      "description": "HTML/CSS template for shoe-selling website...",
-      "tags": ["HTML", "CSS"],
+      "description": "Online Shoe store offering a variety of footwear for purchase. It includes product listings, description",
+      "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
       "status": "working-on",
-      "github": "https://github.com/example/shoe-store",
-      "vercel": "https://shoe-store.example.com"
+      "github": "https://github.com/lamlankosi/Shoe-Store.git",
+      "vercel": "https://shoe-store-eosin-theta.vercel.app/"
     },
     {
       "id": 3,
       "name": "BMI Calculator",
-      "description": "HTML/CSS template for shoe-selling website...",
-      "tags": ["HTML", "CSS"],
+      "description": "This website is a BMI Calculator allowing users to input their height and wheight to determine their body mass.",
+      "tags": ["HTML", "CSS", "JavaScript"],
       "status": "completed",
-      "github": "https://github.com/example/shoe-store",
-      "vercel": "https://shoe-store.example.com"
+      "github": "https://github.com/lamlankosi/BMI-Calculator.git",
+      "vercel": "https://bmi-calculator-delta-one.vercel.app/"
     },
     {
       "id": 4,
       "name": "To-do-List",
-      "description": "HTML/CSS template for shoe-selling website...",
+      "description": "To do app that allows users to add, manage and delete tasks, gelping to organise and track daily activities effieciently",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "status": "completed",
+      "github": "https://github.com/lamlankosi/To-do-list.git",
+      "vercel": "https://to-do-list-three-tawny.vercel.app/"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Store",
+      "description": "Online gaming store offering video games and gaming accessories for purchase.It include product listing and shopping features",
+      "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "status": "completed",
+      "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
+      "vercel": "https://lamla-gaming-store.vercel.app/"
+    },
+    {
+      "id": 6,
+      "name": "Keyboard",
+      "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
       "tags": ["HTML", "CSS"],
-      "status": "working-on",
-      "github": "https://github.com/example/shoe-store",
+      "status": "completed",
+      "github": "https://github.com/lamlankosi/Keyboard.git",
       "vercel": "https://shoe-store.example.com"
     }
   ]
