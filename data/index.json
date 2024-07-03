@@ -115,7 +115,7 @@
       "vercel": "https://shoe-store-eosin-theta.vercel.app/"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "To-do-List",
       "description": "To do app that allows users to add, manage and delete tasks, gelping to organise and track daily activities effieciently",
       "tags": ["HTML", "CSS", "JavaScript"],
@@ -124,7 +124,7 @@
       "vercel": "https://to-do-list-three-tawny.vercel.app/"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Gaming Store",
       "description": "Online gaming store offering video games and gaming accessories for purchase.It include product listing and shopping features",
       "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -133,11 +133,11 @@
       "vercel": "https://lamla-gaming-store.vercel.app/"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Keyboard",
       "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
       "tags": ["HTML", "CSS"],
-      "status": "completed",
+      "status": "working-on",
       "github": "https://github.com/lamlankosi/Keyboard.git",
       "vercel": "https://shoe-store.example.com"
     }
