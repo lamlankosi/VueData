@@ -116,15 +116,6 @@
     },
     {
       "id": 3,
-      "name": "BMI Calculator",
-      "description": "This website is a BMI Calculator allowing users to input their height and wheight to determine their body mass.",
-      "tags": ["HTML", "CSS", "JavaScript"],
-      "status": "completed",
-      "github": "https://github.com/lamlankosi/BMI-Calculator.git",
-      "vercel": "https://bmi-calculator-delta-one.vercel.app/"
-    },
-    {
-      "id": 4,
       "name": "To-do-List",
       "description": "To do app that allows users to add, manage and delete tasks, gelping to organise and track daily activities effieciently",
       "tags": ["HTML", "CSS", "JavaScript"],
@@ -133,7 +124,7 @@
       "vercel": "https://to-do-list-three-tawny.vercel.app/"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Gaming Store",
       "description": "Online gaming store offering video games and gaming accessories for purchase.It include product listing and shopping features",
       "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -142,7 +133,7 @@
       "vercel": "https://lamla-gaming-store.vercel.app/"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Keyboard",
       "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
       "tags": ["HTML", "CSS"],
