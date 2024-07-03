@@ -62,36 +62,42 @@
             "id":1,
             "name": "Imaaran",
             "surname": "Sheldon" ,
+            "category": "Software Developer",
              "quotes": "Lamlankosi's web development prowess transforms projects, excelling in both frontend design and backend optimization. Known for attention to detail and problem-solving, he consistently exceeds expectations, delivering seamless online solutions. Highly recommended for those seeking top-tier web development services."
         },
         {
             "id": 2,
             "name": "Yakupha",
             "surname" : "Ntonitshi",
+            "category": "Software Developer",
             "quotes": "I've had the pleasure of collaborating with Lamlankosi on multiple occasions, and I've always been impressed by his expertise and professionalism. His portfolio is a testament to his skills as a software developer, showcasing not only his technical proficiency but also his ability to adapt to different technologies and frameworks. He's definitely someone you want on your team."
         },
         {
             "id": 3,
             "name": "Joel",
             "surname" : "Mukanya",
+            "category": "Lecturer",
             "quotes": "Lamlankosi is a highly creative, well-behave and dedicated individiual who thrives on collaborating with his peers and excels at working on project assiginments.he has acquired various skills and tool, including HTML5, CCS3,Bootstrap, VS Code, and wireframe. Im pleased to introducehim as exceptional candidate and developer."
         },
         {
             "id": 4,
             "name": "Mordecai",
             "surname" : "Dimbu",
+            "category": "Software Developer",
             "quotes": "Lamla is a highly capable individual known for his fast learning, exceptional work ethic, and calm demeanor. He efficiently completes tasks and projects while maintaining a relaxed attitude. Highly recommended for his impressive abilities and easygoing nature."
         },
         {
             "id": 5,
             "name": "Amy",
             "surname" : "Johnson",
+            "category": "Software Developer",
             "quotes": "Lamlankosi epitomizes discipline and teamwork. Their dedication to coding is unparalleled, evident in their meticulous work. As a team player, they elevate every project with their collaborative spirit. Working with Lamla is inspiring and highly productive."
         },
         {
             "id": 6,
             "name": "Thuthuza",
             "surname" : "Poswayo",
+            "category": "Software Developer",
             "quotes": "Lamla is an exceptional team player. He is always ready and willing to tackle any task at hand He is very helpful and kind too."
         }
     ],
