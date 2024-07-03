@@ -115,7 +115,9 @@
       "tags": ["HTML", "CSS", "JavaScript"],
       "status": "completed",
       "github": "https://github.com/lamlankosi/Calculator.git",
-      "vercel": "https://calculator-ruddy-rho.vercel.app/"
+      "vercel": "https://calculator-ruddy-rho.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
+
     },
     {
       "id": 2,
@@ -124,7 +126,8 @@
       "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
       "status": "working-on",
       "github": "https://github.com/lamlankosi/Shoe-Store.git",
-      "vercel": "https://shoe-store-eosin-theta.vercel.app/"
+      "vercel": "https://shoe-store-eosin-theta.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
     },
     {
       "id": 4,
@@ -133,7 +136,8 @@
       "tags": ["HTML", "CSS", "JavaScript"],
       "status": "completed",
       "github": "https://github.com/lamlankosi/To-do-list.git",
-      "vercel": "https://to-do-list-three-tawny.vercel.app/"
+      "vercel": "https://to-do-list-three-tawny.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
     },
     {
       "id": 5,
@@ -142,7 +146,8 @@
       "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
       "status": "completed",
       "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
-      "vercel": "https://lamla-gaming-store.vercel.app/"
+      "vercel": "https://lamla-gaming-store.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
     },
     {
       "id": 6,
@@ -151,7 +156,8 @@
       "tags": ["HTML", "CSS"],
       "status": "working-on",
       "github": "https://github.com/lamlankosi/Keyboard.git",
-      "vercel": "https://shoe-store.example.com"
+      "vercel": "https://shoe-store.example.com",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
     }
   ]
 }
