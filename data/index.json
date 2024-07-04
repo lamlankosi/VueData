@@ -116,7 +116,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/Calculator.git",
       "vercel": "https://calculator-ruddy-rho.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718.png"
 
     },
     {
@@ -137,7 +137,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/To-do-list.git",
       "vercel": "https://to-do-list-three-tawny.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011.png"
     },
     {
       "id": 5,
@@ -147,7 +147,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
       "vercel": "https://lamla-gaming-store.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
     },
     {
       "id": 6,
@@ -157,7 +157,17 @@
       "status": "working-on",
       "github": "https://github.com/lamlankosi/Keyboard.git",
       "vercel": "https://shoe-store.example.com",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-07-03 122011.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-2024-07-03-122011.png"
+    },
+    {
+      "id": 7,
+      "name": "Bootstrap Portfolio",
+      "description": "The portfolio is designed to be user-friendly and fully responsive, ensuring a seamless experience across all devices, from desktops to smartphones. It includes several key sections that provide visitors with a clear understanding of who I am and what I do.",
+      "tags": ["HTML", "CSS", "Bootstrap"],
+      "status": "completed",
+      "github": "https://github.com/lamlankosi/myPortfolio.git",
+      "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Screenshot-082603.png"
     }
   ]
 }
