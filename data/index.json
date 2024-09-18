@@ -47,10 +47,21 @@
         "name": "Vue.js", 
         "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png" 
     },
-    {   
-        "name": "Microsoft Office", 
-        "logo": "https://lamlankosi.github.io/project_images/Images/b5d4478193f8e33c20b9bf7583a6f180.jpg" 
-    }
+    { 
+        "name": "Microsoft Access",
+        "logo": "https://lamlankosi.github.io/project_images/Images/Microsoft_Access-Logo.wine.png"
+    },
+    { 
+        "name": "Microsoft Word",
+        "logo": "https://lamlankosi.github.io/project_images/Images/microsoft-word-logo-microsoft-icon-art-free-vector.jpg"
+    },
+    { 
+        "name": "Node Js",
+        "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-js-logo-node-logos-and-brands-icon.png"
+    },
+        "name": "MySQL",
+        "logo": "https://lamlankosi.github.io/project_images/Images/mysql-logo-png-download-11660514437zlrtia1gek.png"
+    },
   ],
     "testimonials":[
         {
