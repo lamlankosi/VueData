@@ -13,6 +13,12 @@
 
     ],
    "education": [
+    {
+        "school": "Life Choices Academy",
+        "year": "2024",
+        "occupation": "Gained coding skills such as HTML,CSS,JavaScript,Node Js, MySQL. Not only gained coding skills I also got soft skills such as communication skills",
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png"
+    },
     { 
         "school": "Christel House South Africa", 
         "year": "2023",
@@ -20,23 +26,16 @@
         "schoolURL": "https://lamlankosi.github.io/project_images/Images/CHSA-logo.jpeg"
     },
     {
-        "school": "Life Choices Academy",
-        "year": "2024",
-        "occupation": "Gained coding skills such as HTML,CSS,JavaScript,Node Js, MySQL. Not only gained coding skills I also got soft skills such as communication skills",
-        "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png"
-    },
+        "school": "The Digital Law Academy",
+        "year": "2023",
+        "occupation": "The dangers of social media, and how to avoid them.",
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/LogoPink.png"
     },
     {
         "school": "Umbono Movement",
         "year": "2022",
         "occupation": "Gained photography skills, explored composition, lighting. Committed to continuous learning.",
         "schoolURL":"https://lamlankosi.github.io/project_images/Images/Screenshot 2024-09-18 123643.png"
-    },
-    {
-        "school": "The Digital Law Academy",
-        "year": "2023",
-        "occupation": "The dangers of social media, and how to avoid them.",
-        "schoolURL":"https://lamlankosi.github.io/project_images/Images/LogoPink.png"
     }
     
   ],
