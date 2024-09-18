@@ -4,9 +4,6 @@
 
         "companyName": "Life Choices",
         "title" : "Aspiring Developer"
-        },
-        {
-            "title": "gamer"
         }
     ],
     "about": [
@@ -17,18 +14,16 @@
     ],
    "education": [
     { 
-        "school": "Zimasa Primary School", 
-        "year": "2011-2020"
-    },
-    { 
         "school": "Christel House South Africa", 
-        "year": "2021-2023"
-    }
-  ],
-  "experience": [
-    { 
-        "company": "Life Choices", 
-        "year": "2024-2025"
+        "year": 2023,
+        "occupation": "NSC Completion",
+        "schoolURL": "https://lamlankosi.github.io/project_images/Images/CHSA-logo.jpeg"
+    },
+    {
+        "school": "Life Choices Academy",
+        "year": 2024,
+        "occupation": "Coding"
+        "schoolURL:"https://lamlankosi.github.io/project_images/Images/images(1).png"
     }
   ],
   "skills": [
