@@ -15,13 +15,13 @@
    "education": [
     { 
         "school": "Christel House South Africa", 
-        "year": 2023,
+        "year": "2023",
         "occupation": "NSC Completion",
         "schoolURL": "https://lamlankosi.github.io/project_images/Images/CHSA-logo.jpeg"
     },
     {
         "school": "Life Choices Academy",
-        "year": 2024,
+        "year": "2024",
         "occupation": "Coding",
         "schoolURL:"https://lamlankosi.github.io/project_images/Images/images(1).png"
     }
