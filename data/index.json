@@ -193,27 +193,7 @@
       "vercel": "https://lamla-gaming-store.vercel.app/",
       "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
     },
-    {
-      "id": 6,
-      "name": "Keyboard",
-      "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
-      "tags": ["HTML", "CSS"],
-      "status": "working-on",
-      "github": "https://keyboard1-zeta.vercel.app/",
-      "vercel": "hhttps://github.com/lamlankosi/Keyboard1.git",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Bootstrap Portfolio",
-      "description": "The portfolio is designed to be user-friendly and fully responsive, ensuring a seamless experience across all devices, from desktops to smartphones. It includes several key sections that provide visitors with a clear understanding of who I am and what I do.",
-      "tags": ["HTML", "CSS", "Bootstrap"],
-      "status": "completed",
-      "github": "https://github.com/lamlankosi/myPortfolio.git",
-      "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-082603.png"
-
-    },
+  
     {
       "id": 8,
       "name": "Urban Loft (eCommerce)",
