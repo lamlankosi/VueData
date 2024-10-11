@@ -156,15 +156,6 @@
 
     },
     {
-      "id": 2,
-      "name": "Shoe Store",
-      "description": "Online Shoe store offering a variety of footwear for purchase. It includes product listings, description",
-      "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
-      "github": "https://github.com/lamlankosi/Shoe-Store.git",
-      "vercel": "https://shoe-store-eosin-theta.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
-    },
-    {
       "id": 3,
       "name": "Inventory",
       "description": "Gaming inventory is a comprehensive collection of products catering to all gaming enthusiasts.",
@@ -193,7 +184,16 @@
       "vercel": "https://lamla-gaming-store.vercel.app/",
       "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
     },
-  
+    {
+      "id": 6,
+      "name": "Keyboard",
+      "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
+      "tags": ["HTML", "CSS"],
+      "status": "working-on",
+      "github": "https://keyboard1-zeta.vercel.app/",
+      "vercel": "hhttps://github.com/lamlankosi/Keyboard1.git",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
+    },
     {
       "id": 8,
       "name": "Urban Loft (eCommerce)",
@@ -202,7 +202,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/fullStack.git",
       "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-2024-10-11-140858.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot2024-10-11-140858.png"
 
     }
   ]
