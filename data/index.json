@@ -22,8 +22,8 @@
     {
         "school": "AWS Skills Center",
         "year": "2024",
-        "occupation": "Gained photography skills, explored composition, lighting. Committed to continuous learning.",
-        "schoolURL":"https://lamlankosi.github.io/project_images/Images/Screenshot 2024-09-18 123643.png",
+        "occupation": "Gained knowledge about AWS cloud model and its core services, how the cloud is used, and how the shared responsibility model impacts design decisions.",
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/Amazon_Web_Services-Logo.wine.svg",
         "certificate": "https://drive.google.com/file/d/1nYFr7BR7Afm-ND0CodeRyz0wfKX8V6Cg/view?usp=drive_link"
     },
     { 
@@ -46,7 +46,13 @@
     {
         "companyName":"Life Choices Studio",
         "year":"2024",
-        "occupation":"Internship"
+        "occupation":"Internship",
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png"
+    }
+  ],
+  "badges":[
+    {
+        "imgURL":"https://lamlankosi.github.io/project_images/Images/operating-systems-basics.png"
     }
   ],
   "skills": [
