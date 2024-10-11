@@ -152,7 +152,7 @@
       "tags": ["HTML", "CSS", "JavaScript"],
       "github": "https://github.com/lamlankosi/Calculator.git",
       "vercel": "https://calculator-ruddy-rho.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718copy.png"
 
     },
     {
@@ -162,7 +162,7 @@
       "tags": ["HTML", "CSS", "Bootstrap", "JavaScript", "NodeJs", "VueJs"] ,
       "github": "https://github.com/lamlankosi/Capstone.git",
       "vercel": "https://capstone-97e01.web.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-10-11 -33659.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-10-11 -33659copy.png"
     },
     {
       "id": 4,
@@ -172,7 +172,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/To-do-list.git",
       "vercel": "https://to-do-list-three-tawny.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011copy.png"
     },
     {
       "id": 5,
@@ -182,7 +182,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
       "vercel": "https://lamla-gaming-store.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907copy.png"
     },
     {
       "id": 6,
@@ -202,7 +202,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/fullStack.git",
       "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot2024-10-11-140858.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot2024-10-11-140858copy.png"
 
     }
   ]
