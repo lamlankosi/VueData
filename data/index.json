@@ -213,6 +213,18 @@
       "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
       "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-082603.png"
 
+    },
+    {
+      "id": 8,
+      "name": "Urban Loft (eCommerce)",
+      "description": "Online shop for beautifully curated home and outdoor decor.",
+      "tags": ["HTML", "CSS", "Bootstrap"],
+      "status": "completed",
+      "github": "https://github.com/lamlankosi/fullStack.git",
+      "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-10-11-140858.png
+        "
+
     }
   ]
 }
