@@ -150,7 +150,6 @@
       "name": "Calculator",
       "description": "Basic calculator allowing user to perform arthemtic operations such as addition,subraction, multiplication and division through a simple interactive interface",
       "tags": ["HTML", "CSS", "JavaScript"],
-      "status": "completed",
       "github": "https://github.com/lamlankosi/Calculator.git",
       "vercel": "https://calculator-ruddy-rho.vercel.app/",
       "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718.png"
@@ -161,10 +160,18 @@
       "name": "Shoe Store",
       "description": "Online Shoe store offering a variety of footwear for purchase. It includes product listings, description",
       "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
-      "status": "working-on",
       "github": "https://github.com/lamlankosi/Shoe-Store.git",
       "vercel": "https://shoe-store-eosin-theta.vercel.app/",
       "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Inventory",
+      "description": "Gaming inventory is a comprehensive collection of products catering to all gaming enthusiasts.",
+      "tags": ["HTML", "CSS", "Bootstrap", "JavaScript", "NodeJs", "VueJs"] ,
+      "github": "https://github.com/lamlankosi/Capstone.git",
+      "vercel": "https://capstone-97e01.web.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-10-11 -33659.png"
     },
     {
       "id": 4,
