@@ -17,8 +17,7 @@
         "school": "Life Choices Academy",
         "year": "2024",
         "occupation": "Gained coding skills such as HTML,CSS,JavaScript,Node Js, MySQL. Not only gained coding skills I also got soft skills such as communication skills",
-        "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png",
-        "certificate":"https://drive.google.com/file/d/1kThLzloiGUegmjzARLjdIgNKZDnW8PwZ/view?usp=drive_link"
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png"
     },
     {
         "school": "AWS Skills Center",
@@ -59,38 +58,52 @@
   "skills": [
     {   
         "name": "CSS", 
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle.png" 
     },
     {   
         "name": "HTML", 
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" 
     },
     {   
         "name": "Bootstrap", 
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-clipart-bootstrap-responsive-web-design-web-development-logo-django-others-miscellaneous-purple-thumbnail.png"
     },
     {   
         "name": "JavaScript", 
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png" 
     },
     {   
         "name": "Vue.js", 
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail.png" 
     },
     { 
-        "name": "Microsoft Access",
+        "name": "Microsoft Applications",
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/Microsoft_Access-Logo.wine.png"
     },
     { 
-        "name": "Microsoft Word",
-        "logo": "https://lamlankosi.github.io/project_images/Images/microsoft-word-logo-microsoft-icon-art-free-vector.jpg"
-    },
-    { 
         "name": "Node Js",
+        "category":"Technical",
         "logo": "https://lamlankosi.github.io/project_images/Images/png-transparent-js-logo-node-logos-and-brands-icon.png"
     },
     {
         "name": "MySQL",
+        "category":"Technical",
+        "logo": "https://lamlankosi.github.io/project_images/Images/mysql-logo-png-download-11660514437zlrtia1gek.png"
+    },
+    {
+        "name": "Communication",
+        "category":"Soft Skills",
+        "logo": "https://lamlankosi.github.io/project_images/Images/mysql-logo-png-download-11660514437zlrtia1gek.png"
+    },
+    {
+        "name": "Problem Solving",
+        "category":"Soft Skills",
         "logo": "https://lamlankosi.github.io/project_images/Images/mysql-logo-png-download-11660514437zlrtia1gek.png"
     }
       
@@ -151,19 +164,21 @@
       "name": "Calculator",
       "description": "Basic calculator allowing user to perform arthemtic operations such as addition,subraction, multiplication and division through a simple interactive interface",
       "tags": ["HTML", "CSS", "JavaScript"],
+      "status": "completed",
       "github": "https://github.com/lamlankosi/Calculator.git",
       "vercel": "https://calculator-ruddy-rho.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718copy.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718.png"
 
     },
     {
-      "id": 3,
-      "name": "Inventory",
-      "description": "Gaming inventory is a comprehensive collection of products catering to all gaming enthusiasts.",
-      "tags": ["HTML", "CSS", "Bootstrap", "JavaScript", "NodeJs", "VueJs"] ,
-      "github": "https://github.com/lamlankosi/Capstone.git",
-      "vercel": "https://capstone-97e01.web.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot 2024-10-11 -33659.png"
+      "id": 2,
+      "name": "Shoe Store",
+      "description": "Online Shoe store offering a variety of footwear for purchase. It includes product listings, description",
+      "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
+      "status": "working-on",
+      "github": "https://github.com/lamlankosi/Shoe-Store.git",
+      "vercel": "https://shoe-store-eosin-theta.vercel.app/",
+      "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
     },
     {
       "id": 4,
@@ -173,7 +188,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/To-do-list.git",
       "vercel": "https://to-do-list-three-tawny.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011copy.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011.png"
     },
     {
       "id": 5,
@@ -183,7 +198,7 @@
       "status": "completed",
       "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
       "vercel": "https://lamla-gaming-store.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907copy.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
     },
     {
       "id": 6,
@@ -196,14 +211,14 @@
       "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
     },
     {
-      "id": 8,
-      "name": "Urban Loft (eCommerce)",
-      "description": "Online shop for beautifully curated home and outdoor decor.",
+      "id": 7,
+      "name": "Bootstrap Portfolio",
+      "description": "The portfolio is designed to be user-friendly and fully responsive, ensuring a seamless experience across all devices, from desktops to smartphones. It includes several key sections that provide visitors with a clear understanding of who I am and what I do.",
       "tags": ["HTML", "CSS", "Bootstrap"],
       "status": "completed",
-      "github": "https://github.com/lamlankosi/fullStack.git",
+      "github": "https://github.com/lamlankosi/myPortfolio.git",
       "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
-      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot2024-10-11-140858copy.png"
+      "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-082603.png"
 
     }
   ]
