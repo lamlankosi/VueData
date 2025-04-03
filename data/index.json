@@ -94,14 +94,13 @@
             "id": 9,
             "name": "Capital Safe Towns",
             "city": "Portland",
-            "state": "OR"'',
+            "state": "OR",
             "photo": "`${this.baseUrl}/webaliser-_TPTXZd9mOo-unsplash.jpg`",
             "availableUnits": 6,
             "wifi": true,
             "laundry": true,
         }
     ],
-    ]
     "jobTitle":[ 
         {
 
